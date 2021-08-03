@@ -4,7 +4,11 @@
 - 👀 I’m interested in Serverless AWS, React, AWS Amplify, and NLP.
 - 🌱 I’m currently learning Astro.js for static site generation _with components_
 - 💞️ I’m looking to collaborate on full serverless apps.
-- 📫 How to reach me: Just @ me on slack.
+- 📫 How to reach me: Just @roy me on slack.
+
+## Working at Reaktor
+
+I am currently working at [Reaktor](https://www.reaktor.com/)
 
 ## My open source profile
 
