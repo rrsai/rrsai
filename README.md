@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on full serverless apps.
 - 📫 How to reach me: Just @roy me on slack.
 
-## Working at Reaktor
+# Working at Reaktor
 
-I am currently working at [Reaktor](https://www.reaktor.com/)
+I am currently working at [Reaktor](https://www.reaktor.com/).
 
 ## My open source profile
 
