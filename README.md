@@ -1,6 +1,6 @@
 # My closed source profile
 
-- 👋 Hi, I’m @rrsai for closed source and @tchalvak for open source.
+- 👋 Hi, I’m @rrsai for closed source and [@tchalvak for open source](https://github.com/tchalvak).
 - 👀 I’m interested in Serverless AWS, React, AWS Amplify, and NLP.
 - 🌱 I’m currently learning Astro.js for static site generation _with components_
 - 💞️ I’m looking to collaborate on full serverless apps.
