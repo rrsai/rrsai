@@ -8,7 +8,7 @@
 
 # Working at Reaktor
 
-I am currently working at [Reaktor](https://www.reaktor.com/).
+I work at [Reaktor](https://www.reaktor.com/).
 
 ## My open source profile
 
